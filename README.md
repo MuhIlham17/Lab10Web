@@ -1,7 +1,4 @@
 # Lab10Web
-Nama    : Muh Ilham Wahyu Fajar
-NIM     : 312310208
-Kelas   : TI.A2.23
 # Pertanyaan dan Tugas
 Implementasikan konsep modularisasi pada kode program pada praktukum sebelumnya
 dengan menggunakan class library untuk form dan database connection.
