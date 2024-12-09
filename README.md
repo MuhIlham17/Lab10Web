@@ -21,5 +21,4 @@ screenshotnya.
 ![image](https://github.com/user-attachments/assets/3497e127-a725-4858-be14-e77bcc56a24d)
 Saya menambahkan beberapa table : 
 ![image](https://github.com/user-attachments/assets/483a7835-f4ee-47ca-a212-901ef5dc4fd7)
-5. 
 
